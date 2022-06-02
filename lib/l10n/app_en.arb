@@ -1,0 +1,244 @@
+{
+
+  "language" : "English",
+  "@language" : {
+    "description" : "The current Langauge"
+  },
+
+  "feelsLike" :  "Feels Like",
+  "@feelsLike" : {
+    "description" : "This is description"
+  },
+  "humidity" : "Humidity",
+  "@humidity" : {
+    "description" : "This is description"
+  },
+  "pressure" :  "Pressure",
+  "@pressure" : {
+    "description" : "This is description"
+  },
+  "hPa" : "hPa",
+  "@hPa" : {
+    "description" : "This is description"
+  },
+  "wind" :  "Wind",
+  "@wind" : {
+    "description" : "This is description"
+  },
+  "location" : "Location",
+  "@location" : {
+    "description" : "This is description"
+  },
+  "enterCity" :  "Enter city",
+  "@enterCity" : {
+    "description" : "This is description"
+  },
+  "update" : "Update",
+  "@update" : {
+    "description" : "This is description"
+  },
+  "login" : "LOG IN",
+  "@login" : {
+    "description" : "This is description"
+  },
+  "confirm" : "Confirm: ",
+  "@confirm" : {
+    "description" : "This is description"
+  },
+  "signup" : "SIGN UP",
+  "@signup" : {
+    "description" : "This is description"
+  },
+  "error" :  "error",
+  "@error" : {
+    "description" : "This is description"
+  },
+  "sunrise" : "Sunrise",
+  "@sunrise" : {
+    "description" : "This is description"
+  },
+  "sunset" :  "Sunset",
+  "@sunset" : {
+    "description" : "This is description"
+  },
+  "alarmIsTurnedOn" : "Alarm is turned on",
+  "@alarmIsTurnedOn" : {
+    "description" : "This is description"
+  },
+  "turnAlarmOn" :  "Turn alarm on",
+  "@turnAlarmOn" : {
+    "description" : "This is description"
+  },
+  "newAlarm" : "New Alarm",
+  "@newAlarm" : {
+    "newAlarm" : "This is description"
+  },
+  "timeBefore" :  "Time Before",
+  "@timeBefore" : {
+    "description" : "This is description"
+  },
+  "on" : "On",
+  "@on" : {
+    "description" : "This is description"
+  },
+  "off" :  "Off",
+  "@fff" : {
+    "description" : "This is description"
+  },
+  "cancel" : "Cancel",
+  "@cancel" : {
+    "Cancel" : "This is description"
+  },
+  "riseOnvalue" :  "riseOnvalue",
+  "@riseOnvalue" : {
+    "description" : "This is description"
+  },
+  "sunRise" : "Sun Rise",
+  "@sunRise" : {
+    "description" : "This is description"
+  },
+  "heyItsAlmostSunRiseTime" :  "Hey!, It's almost SunRise Time",
+  "@heyItsAlmostSunRiseTime" : {
+    "description" : "This is description"
+  },
+  "heyItsAlmostSunSetTime" : "Hey!, It's almost SunSet Time",
+  "@heyItsAlmostSunSetTime" : {
+    "description" : "This is description"
+  },
+  "scheduledTheAlarm" :  "Scheduled the alarm",
+  "@scheduledTheAlarm" : {
+    "scheduledTheAlarm" : "This is description"
+  },
+  "add" : "Add",
+  "@add" : {
+    "description" : "This is description"
+  },
+  "areYouSureYouWantToDeleteThisPost" :  "Are you sure you want to delete this post?",
+  "@areYouSureYouWantToDeleteThisPost" : {
+    "description" : "This is description"
+  },
+  "delete" : "Delete",
+  "@delete" : {
+    "description" : "This is description"
+  },
+  "home" :  "Home",
+  "@home" : {
+    "description" : "This is description"
+  },
+  "weather" : "Weather",
+  "@weather" : {
+    "description" : "This is description"
+  },
+  "map" :  "Map",
+  "@map" : {
+    "description" : "This is description"
+  },
+  "alarm" : "Alarm",
+  "@alarm" : {
+    "description" : "This is description"
+  },
+  "settings" :  "Settings",
+  "@settings" : {
+    "description" : "This is description"
+  },
+  "logout" : "Log out",
+  "@logout" : {
+    "description" : "This is description"
+  },
+  "areYouSureYouWantToLogout" :  "Are you sure you want to logout?",
+  "@areYouSureYouWantToLogout" : {
+    "description" : "This is description"
+  },
+  "whatsHappening" : "What's happening?",
+  "@whatsHappening" : {
+    "description" : "This is description"
+  },
+  "description" :  "Description",
+  "@description" : {
+    "description" : "This is description"
+  },
+  "chooseImage" : "Choose Image",
+  "@chooseImage" : {
+    "description" : "This is description"
+  },
+  "chooseSource" :  "Choose Source",
+  "@chooseSource" : {
+    "description" : "This is description"
+  },
+  "gallery" : "Gallery",
+  "@gallery" : {
+    "description" : "This is description"
+  },
+  "camera" :  "Camera",
+  "@camera" : {
+    "description" : "This is description"
+  },
+  "addPost" : "Add post",
+  "@addPost" : {
+    "description" : "This is description"
+  },
+  "post" :  "Post",
+  "@post" : {
+    "description" : "This is description"
+  },
+
+  "findMySuN" : "Find My SuN",
+  "@findMySuN" :    {
+   "description" : "This is description"
+  },
+
+  "loading" : "Loading...",
+  "@loading" :    {
+    "description" : "This is description"
+  },
+
+  "userNameCap" : "User Name",
+  "@userNameCap" :    {
+   "description" : "This is description"
+  },
+  "password" : "Password",
+  "@password" :    {
+   "description" : "This is description"
+  },
+  "passworddoted" : "Password: ",
+  "@passworddoted" :    {
+    "description" : "This is description"
+  },
+  "feed" : "Feed",
+  "@feed" :    {
+   "description" : "This is description"
+  },
+  "changeProfilePhoto" : "Change profile photo",
+  "@changeProfilePhoto" :    {
+   "description" : "This is description"
+  },
+  "userName" : "Username",
+  "@userName" :    {
+   "description" : "This is description"
+  },
+  "userNameDot" : "Username: ",
+  "@userNameDot" :    {
+   "description" : "This is description"
+  },
+  "passwordsDoNotMatch" : "Passwords do not match",
+  "@passwordsDoNotMatch" :    {
+   "description" : "This is description"
+  },
+  "fieldsAreEmpty" : "Field(s) are empty",
+  "@fieldsAreEmpty" :    {
+   "description" : "This is description"
+  },
+  "usernameAlreadyTaken" : "Username already taken",
+  "@usernameAlreadyTaken" :    {
+   "description" : "This is description"
+  },
+  "passwordCannotBeEmpty" : "Password cannot be empty",
+  "@passwordCannotBeEmpty" :    {
+   "description" : "This is description"
+  },
+  "minutesBefore" : " minutes before",
+  "@minutesBefore" :    {
+   "description" : "This is description"
+  }
+
+}

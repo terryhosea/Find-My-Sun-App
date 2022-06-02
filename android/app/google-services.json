@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247998701183",
+    "project_id": "csci4100-major-project",
+    "storage_bucket": "csci4100-major-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247998701183:android:bfe03d3bde450dca88a94a",
+        "android_client_info": {
+          "package_name": "com.example.sunrise_sunset_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247998701183-he938487sbr6i1gl6taiafi48je02h7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaBysiwYIZJ1N1__Qk6VvvKeCK344R8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247998701183-he938487sbr6i1gl6taiafi48je02h7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
